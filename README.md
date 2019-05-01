@@ -1,6 +1,6 @@
 # Android-to-Arduino-Data-Send-via-Bluetooth-Serial
 
-The original work of this project was done by HarryGoodwin in 2014/2015. In an effort to learn how the communicaiton between android app and arduino works, I came across his work and made a few changeds to
+The original work of this project was done by HarryGoodwin in 2014/2015. In an effort to learn how the communicaiton between android app and arduino works over bluetooth, I came across his work and made a few changeds to
 make it work with Android studio 3.2.1.
 
 His github page:
